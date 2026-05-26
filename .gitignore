@@ -1,0 +1,38 @@
+# Keil MDK build outputs
+Objects/
+Listings/
+*.o
+*.d
+*.crf
+*.lnp
+*.axf
+*.hex
+*.htm
+*.dep
+*.iex
+*.map
+*.lst
+*.build_log.htm
+build.log
+
+# Keil user-specific settings
+*.uvguix.*
+*.uvoptx
+
+# Debug config
+DebugConfig/
+
+# Claude Code local settings
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# JLink
+JLinkLog.txt
+JLinkSettings.ini
+
+# OS
+Thumbs.db
+Desktop.ini
